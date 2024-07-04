@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="item_label">Items</string>
+    <string name="assignment">SeekBarInKotlin</string>
+</resources>

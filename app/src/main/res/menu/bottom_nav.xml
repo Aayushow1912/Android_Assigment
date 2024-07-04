@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Explore"
+         android:id="@+id/Explore"
+         android:icon="@drawable/baseline_build_24"/>
+    <item android:title="Connect"
+        android:id="@+id/Connnect"
+        android:icon="@drawable/baseline_connect_without_contact_24"/>
+    <item android:title="Chat"
+        android:id="@+id/Chat"
+        android:icon="@drawable/baseline_chat_24"/>
+    <item android:title="Contacts"
+        android:id="@+id/Contacts"
+        android:icon="@drawable/baseline_contacts_24"/>
+    <item android:title="Groups"
+        android:id="@+id/Groups"
+        android:icon="@drawable/baseline_group_add_24"/>
+
+</menu>
